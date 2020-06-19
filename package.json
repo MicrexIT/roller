@@ -1,0 +1,20 @@
+{
+  "name": "ponicode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "ts-node test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "ts-node": "^8.10.2"
+  }
+}
